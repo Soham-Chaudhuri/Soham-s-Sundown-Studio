@@ -1,6 +1,6 @@
-# [Soham Studio](https://sohamstudio.netlify.app/)
+# [Soham's Sundown Studio](https://sohamsundownstudio.netlify.app/)
 
-Soham Studio is a frontend project created to showcase a modern, responsive portfolio or creative work. The project is built using HTML, CSS, and JavaScript, emphasizing a clean and interactive design.
+Soham's Sundown Studio is a frontend project created to showcase a modern, responsive portfolio or creative work. The project is built using HTML, CSS, and JavaScript, emphasizing a clean and interactive design.
 
 ## Features
 
@@ -21,7 +21,7 @@ To view the website locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/soham-studio.git
+   git clone https://github.com/soham-chaudhuri/soham-studio.git
    
 2. Navigate to the project directory:
     ```sh
